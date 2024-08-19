@@ -24,10 +24,6 @@
 <h2>About Me:</h2>
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🌱 I’m currently working as a frontend developer at the <a href="https://jampad.cc/">Jampad</a>
-
-🔭 Actively preparing for the Scrum PSM 1 exam to deepen my understanding of Scrum methodologies
-
 
 </br>
 <h2>Connect with me:</h2>
