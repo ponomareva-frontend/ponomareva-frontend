@@ -27,7 +27,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 </br>
 <h2>Connect with me:</h2>
-<h3>✉️ Email: tatiana.dev00@gmail.com</h3>
+<h3>✉️ Email: dev.ponomareva@gmail.com</h3>
 <h3>📱 Telegram: <a href="https://t.me/tatiana_frontend">Tanya</a></h3>
 
 
