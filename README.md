@@ -3,11 +3,11 @@
   
   <div id="badges">
 
- <a href="https://www.linkedin.com/in/ponomareva-developer/">
+ <a href="https://www.linkedin.com/in/tatiana-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://t.me/tatiana_frontend">
+  <a href="https://t.me/tatiana_developer">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="telegram link"/>
   </a>
 
@@ -28,7 +28,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </br>
 <h2>Connect with me:</h2>
 <h3>✉️ Email: dev.ponomareva@gmail.com</h3>
-<h3>📱 Telegram: <a href="https://t.me/tatiana_frontend">Tanya</a></h3>
+<h3>📱 Telegram: <a href="https://t.me/tatiana_developer">Tanya</a></h3>
 
 
 
